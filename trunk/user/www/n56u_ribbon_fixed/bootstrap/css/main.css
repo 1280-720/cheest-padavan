@@ -36,11 +36,11 @@ body.body_iframe{
     text-decoration: none;
 }
 
+#subFooter,
 #footer {
     color: #ccc;
     display: none;
 }
-
 .form_thin{margin-bottom: 0px}
 
 .round_all {
