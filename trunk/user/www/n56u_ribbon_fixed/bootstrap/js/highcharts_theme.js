@@ -26,28 +26,28 @@ Highcharts.theme = {
             [0, '#2a2a2b'],
             [1, '#3e3e40']
          ]
-      },
-	    plotBorderWidth: 0				 
-        plotShadow: false,
-        borderWidth: 0,	
-		borderRadius: 0,		 
+      },	
+	  plotBorderWidth: 0				 
+      plotShadow: false,
+      borderWidth: 0,	
+	  borderRadius: 0,		 
     },
     title: {
-        style: {
-            color: '#E0E0E3',
-            fontFamily: '"Trebuchet MS", Verdana, sans-serif',
-            fontWeight: 'bold',
-            fontSize: '16px'
-        }
-    },
+       style: {
+          color: '#E0E0E3',
+          fontFamily: '"Trebuchet MS", Verdana, sans-serif',
+          fontWeight: 'bold',
+          fontSize: '16px'
+      }
+   },
     subtitle: {
-        style: {
-            color: '#E0E0E3',
-            fontFamily: '"Trebuchet MS", Verdana, sans-serif',
-            fontWeight: 'bold',
-            fontSize: '12px'
-        }   
-    },
+       style: {
+          color: '#E0E0E3',
+          fontFamily: '"Trebuchet MS", Verdana, sans-serif',
+          fontWeight: 'bold',
+          fontSize: '12px'
+      }   
+   },
     xAxis: {
         gridLineColor: '#707073',
 		gridLineWidth: 0,
@@ -152,6 +152,11 @@ Highcharts.theme = {
          color: '#666'
       }
 	},			   
+   labels: {
+      style: {
+         color: '#707073'
+      }
+   },			
 	drilldown: {
       activeAxisLabelStyle: {
          color: '#F0F0F3'
