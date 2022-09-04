@@ -320,7 +320,7 @@ function on_ttyd_link(){
 
                                     <table width="100%" cellpadding="4" cellspacing="0" class="table">
                                         <tr>
-                                            <th colspan="2" style="background-color: #E3E3E3;"><#Adm_System_webs#></th>
+                                            <th colspan="2" style="/* background-color: #E3E3E3; */"><#Adm_System_webs#></th>
                                         </tr>
                                         <tr id="row_http_proto">
                                             <th><#Adm_System_http_proto#></th>
@@ -366,7 +366,7 @@ function on_ttyd_link(){
 
                                     <table width="100%" cellpadding="4" cellspacing="0" class="table" id="tbl_https_certs" style="display:none">
                                         <tr>
-                                            <th colspan="4" style="background-color: #E3E3E3;"><#Adm_System_https_certs#></th>
+                                            <th colspan="4" style="/* background-color: #E3E3E3; */"><#Adm_System_https_certs#></th>
                                         </tr>
                                         <tr id="row_https_gen" style="display:none">
                                             <td align="right" style="text-align:right;">
@@ -428,7 +428,7 @@ function on_ttyd_link(){
 
                                     <table width="100%" cellpadding="4" cellspacing="0" class="table">
                                         <tr>
-                                            <th colspan="2" style="background-color: #E3E3E3;"><#Adm_System_term#></th>
+                                            <th colspan="2" style="/* background-color: #E3E3E3; */"><#Adm_System_term#></th>
                                         </tr>
                                         <tr>
                                             <th width="50%"><#Adm_System_telnetd#></th>
@@ -466,7 +466,7 @@ function on_ttyd_link(){
 
                                     <table width="100%" cellpadding="4" cellspacing="0" class="table" id="tbl_wins" style="display:none">
                                         <tr>
-                                            <th colspan="2" style="background-color: #E3E3E3;">Windows Internet Name Service (WINS)</th>
+                                            <th colspan="2" style="/* background-color: #E3E3E3; */">Windows Internet Name Service (WINS)</th>
                                         </tr>
                                         <tr>
                                             <th width="50%"><#Adm_Svc_wins#></th>
@@ -506,7 +506,7 @@ function on_ttyd_link(){
 
                                     <table width="100%" id="tbl_ttyd" cellpadding="4" cellspacing="0" class="table" style="display:none;">
                                         <tr>
-                                            <th colspan="2" style="background-color: #E3E3E3;"><#Adm_Svc_ttyd_setup#></th>
+                                            <th colspan="2" style="/* background-color: #E3E3E3; */"><#Adm_Svc_ttyd_setup#></th>
                                         </tr>
                                         <tr id="div_ttyd">
                                             <th width="50%"><#Adm_Svc_ttyd_enable#></th>
@@ -536,7 +536,7 @@ function on_ttyd_link(){
 
                                     <table width="100%" cellpadding="4" cellspacing="0" class="table">
                                         <tr>
-                                            <th colspan="2" style="background-color: #E3E3E3;"><#Adm_System_misc#></th>
+                                            <th colspan="2" style="/* background-color: #E3E3E3; */"><#Adm_System_misc#></th>
                                         </tr>
 										
                                         <tr id="div_vlmcsd">

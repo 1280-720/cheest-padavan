@@ -441,7 +441,7 @@ function change_ip6_lan_dhcp(){
 
                                     <table width="100%" align="center" cellpadding="4" cellspacing="0" class="table" id="tbl_ip6_sit" style="display:none;">
                                         <tr>
-                                            <th colspan="2" style="background-color: #E3E3E3;"><#IP6_SIT_desc#></th>
+                                            <th colspan="2" style="/* background-color: #E3E3E3; */"><#IP6_SIT_desc#></th>
                                         </tr>
                                         <tr id="row_ip6_6in4_remote">
                                             <th width="50%"><#IP6_SIT_6in4R#></th>
@@ -483,7 +483,7 @@ function change_ip6_lan_dhcp(){
 
                                     <table width="100%" align="center" cellpadding="4" cellspacing="0" class="table" id="tbl_ip6_wan" style="display:none;">
                                         <tr>
-                                            <th colspan="2" style="background-color: #E3E3E3;"><#IP6_WAN_desc#></th>
+                                            <th colspan="2" style="/* background-color: #E3E3E3; */"><#IP6_WAN_desc#></th>
                                         </tr>
                                         <tr id="row_ip6_wan_dhcp">
                                             <th width="50%"><#IP6_WAN_DHCP#></th>
@@ -535,7 +535,7 @@ function change_ip6_lan_dhcp(){
 
                                     <table width="100%" align="center" cellpadding="4" cellspacing="0" class="table" id="tbl_ip6_dns" style="display:none;">
                                         <tr>
-                                            <th colspan="2" style="background-color: #E3E3E3;"><#IP6_DNS_desc#></th>
+                                            <th colspan="2" style="/* background-color: #E3E3E3; */"><#IP6_DNS_desc#></th>
                                         </tr>
                                         <tr id="row_ip6_dns_auto">
                                             <th width="50%"><#IP6_DNS_Auto#></th>
@@ -574,7 +574,7 @@ function change_ip6_lan_dhcp(){
 
                                     <table width="100%" align="center" cellpadding="4" cellspacing="0" class="table" id="tbl_ip6_lan" style="display:none;">
                                         <tr>
-                                            <th colspan="2" style="background-color: #E3E3E3;"><#IP6_LAN_desc#></th>
+                                            <th colspan="2" style="/* background-color: #E3E3E3; */"><#IP6_LAN_desc#></th>
                                         </tr>
                                         <tr id="row_ip6_lan_auto">
                                             <th width="50%"><#IP6_LAN_Auto#></th>
