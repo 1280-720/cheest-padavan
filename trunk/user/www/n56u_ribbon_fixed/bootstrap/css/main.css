@@ -6,7 +6,7 @@ body{
 	overflow-y: scroll;
 }
 body.body_iframe{
-    background: url("/bootstrap/img/bg2.jpg");
+    background: url("/bootstrap/img/bg2.png");
     margin: 0 5px 5px 5px;
     min-width: inherit;
     overflow-y: auto;
