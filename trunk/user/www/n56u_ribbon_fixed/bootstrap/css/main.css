@@ -439,7 +439,7 @@ li div.accordion a {
     z-index:1000;
 }
 
-a.help_tooltip {border-bottom: 1px dotted grey; color: #AAAFB2;}
+/* a.help_tooltip {border-bottom: 1px dotted grey; color: #AAAFB2;} */
 a.help_tooltip:hover {text-decoration: none; border-bottom: 1px dotted grey; color: #AAAFB2;}
 
 #accountMask{
