@@ -1,4 +1,5 @@
-# BongoNet Mediatek-family Router Firmware #
+# !EOL! End of support
+#
 Based on original Padavan rt-n56u with latest mtk 4.4.198 kernel, fetched from D-LINK GPL code.
 
 - Features:
